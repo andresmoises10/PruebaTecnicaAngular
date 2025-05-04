@@ -1,4 +1,11 @@
-# PruebaTecnicaApp
+## Prueba Técnica Angular
+Esta aplicación web fue realizada como parte de la prueba técnica para la materia Prácticas Profesionalizantes II de la Tecnicatura Superior en Desarrollo de Software.
+
+Se utilizaron librerías de diseño como Tailwind CSS y Angular Material.
+
+El objetivo de la aplicación es consumir una API y mostrar los datos en una tabla. Para esto, creé una página Home donde integré el componente de la tabla. Utilicé un servicio con HttpClient para consumir la API, apoyándome en interfaces para filtrar los datos con su tipado correspondiente, los cuales también fueron mapeados.
+
+Adicionalmente, agregué un Navbar para mejorar la navegación mediante rutas, y creé una página About donde presento una tarjeta con información.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 
