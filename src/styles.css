@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* En styles.css es donde importo Tailwind que usaré para darle estilo a mi proyecto */
+@import "tailwindcss";
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; background-color: #f2f2f2;}
